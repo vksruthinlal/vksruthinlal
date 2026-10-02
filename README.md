@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Sruthinlal V K
 
-<!--
-**vksruthinlal/vksruthinlal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer | UI/UX Developer
 
-Here are some ideas to get you started:
+I'm a Frontend & UI/UX Developer with 9+ years of experience in building responsive web applications, enterprise dashboards, ERP/POS interfaces, and mobile applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💻 9+ years of experience in UI / Web Development
+- 🅰️ Angular
+- ⚛️ React.js
+- 📱 React Native
+- 🌐 HTML5, CSS3, JavaScript
+- 🎨 UI/UX & Responsive Web Design
+- 🔗 REST API Integration
+- 🛠️ Git & GitHub
+- 📚 Currently learning DevOps & Linux fundamentals
+
+## 🧰 Technologies & Tools
+
+HTML5 • CSS3 • JavaScript • React.js • Angular • React Native  
+Bootstrap • Figma • Git • GitHub • REST APIs
+
+## 📌 Featured Projects
+
+- PharmacyPlus ERP & POS
+- Restaurant POS Application
+- Academic Management System
+- Personal Portfolio Website
+
+## 🌐 Connect With Me
+
+- 🌍 Portfolio: https://sruthinlal.in
+- 📧 Email: vksruthinlal@gmail.com
