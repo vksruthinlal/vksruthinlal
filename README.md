@@ -26,7 +26,6 @@ Bootstrap • Figma • Git • GitHub • REST APIs
 - PharmacyPlus ERP & POS
 - Restaurant POS Application
 - Academic Management System
-- Personal Portfolio Website
 
 ## 🌐 Connect With Me
 
