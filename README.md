@@ -6,6 +6,12 @@
 
 I'm a Frontend & UI/UX Developer with 9+ years of experience in building responsive web applications, enterprise dashboards, ERP/POS interfaces, and mobile applications.
 
+## Career Objective
+
+To build scalable, user-friendly, and high-performance web and mobile applications while continuously improving my skills in modern frontend development, DevOps, and cloud technologies.
+
+## Skills
+
 - 💻 9+ years of experience in UI / Web Development
 - 🅰️ Angular
 - ⚛️ React.js
@@ -26,8 +32,26 @@ Bootstrap • Figma • Git • GitHub • REST APIs
 - PharmacyPlus ERP & POS
 - Restaurant POS Application
 - Academic Management System
+- PharmacyPlus Android Application
+- ERP Android Application
 
+## Learning Journey
+
+Currently improving my knowledge in:
+
+- Advanced React.js
+- TypeScript
+- Linux
+- DevOps Fundamentals
+- Git & GitHub
+- Docker
+- AWS
+- CI/CD
+- Cloud Technologies
+- 
 ## 🌐 Connect With Me
 
 - 🌍 Portfolio: https://sruthinlal.in
+- 💼 LinkedIn: www.linkedin.com/in/sruthin-lal-b0225910a
+- 🐙 GitHub: https://github.com/vksruthinlal
 - 📧 Email: vksruthinlal@gmail.com
