@@ -2,9 +2,9 @@
 
 ### Frontend Developer | UI/UX Developer
 
-I'm a Frontend & UI/UX Developer with 9+ years of experience in building responsive web applications, enterprise dashboards, ERP/POS interfaces, and mobile applications.
-
 ## 🚀 About Me
+
+I'm a Frontend & UI/UX Developer with 9+ years of experience in building responsive web applications, enterprise dashboards, ERP/POS interfaces, and mobile applications.
 
 - 💻 9+ years of experience in UI / Web Development
 - 🅰️ Angular
