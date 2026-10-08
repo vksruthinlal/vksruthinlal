@@ -48,7 +48,7 @@ Currently improving my knowledge in:
 - AWS
 - CI/CD
 - Cloud Technologies
-- 
+  
 ## 🌐 Connect With Me
 
 - 🌍 Portfolio: https://sruthinlal.in
